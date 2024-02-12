@@ -1,4 +1,4 @@
-FILEPATH = (r"C:\Users\leona\OneDrive\Escritorio\Python Mega Course Build 20 Apps\app01_final_modular\todos.txt")
+FILEPATH = (r"C:\Users\leona\OneDrive\Escritorio\Python Mega Course Build 20 Apps\app01_web\todos.txt")
 
 def get_todos(filepath=FILEPATH):
   with open(filepath, "r") as file_local:
