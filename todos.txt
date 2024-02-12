@@ -7,3 +7,4 @@ fix lamp
 check comp
 return book 
 clean the room
+tomato
